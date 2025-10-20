@@ -89,7 +89,7 @@ Example layout:
 ✅ Example Output
 ✅ Student registered successfully!
 📋 Registered Students:
-ID: 1, Name: Iman, Age: 20, Email: iman@gmail.com, Course: B.Tech CSE
+ID: RA2411003011493, Name: Mukunth, Age: 19, Email: mukunthgopi@gmail.com, Course: B.Tech CSE
 
 🧑‍💻 Author
 
@@ -97,7 +97,7 @@ Mukunth Gopi
 B.Tech CSE, SRM Institute of Science and Technology
 📍 Kattankulathur
 
-GitHub: https://github.com/yourusername
+GitHub: https://github.com/muku2006nth
 
 🏁 Project Status
 
